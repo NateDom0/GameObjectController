@@ -9,4 +9,4 @@ Unity version: 2019.4.18f1
 
 Objective and Components:
 
--User can control two sphere objects using same keyboard but different keys
+-User can control two sphere objects using same keyboard but on different keys
